@@ -1,0 +1,4 @@
+times Caught=69
+times Drowned=30
+times escaped=1
+times got Lucky=0
